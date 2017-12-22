@@ -1,2 +1,2 @@
--r requirements.in
+-r requirements.txt
 pytest>=3.0.7
